@@ -1,5 +1,5 @@
 
-# Staff Tecnico
+# Staff Tecnico - Test
 
 ## Obiettivi
 Lo staff tecnico si occupa dell'UX/UI ed automazioni del server, sia da parte dello staff che dalla parte pubblica.
