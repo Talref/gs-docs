@@ -1,5 +1,3 @@
-#gsbot
-
 # Comandi GSbot
 
 ## Test
