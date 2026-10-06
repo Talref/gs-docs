@@ -1,4 +1,4 @@
-# Comandi GSbot - Test 2
+# Comandi GSbot
 
 ## Test
 
