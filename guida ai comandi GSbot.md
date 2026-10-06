@@ -11,6 +11,9 @@ Verifica che GSbot sia operativo e connesso correttamente al server. Risponde in
 
 ## Compleanni
 
+`/birthday channelset channel:<channel>`
+Imposta il canale dove vengono visualizzati gli auguri.
+
 `/birthday set <giorno> <mese> [anno]`  
 Imposta o aggiorna il proprio compleanno.
 
